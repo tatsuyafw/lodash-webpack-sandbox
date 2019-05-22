@@ -22,6 +22,7 @@ module.exports = {
       shorthands: true,
       cloning: true,
       caching: true,
+      paths: true,
     })
   ],
   optimization: {
